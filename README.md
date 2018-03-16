@@ -1,0 +1,2 @@
+# wipro
+azure_training
